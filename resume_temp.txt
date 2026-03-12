@@ -1,0 +1,248 @@
+Improved Resume Content
+MANOJKUMAR S
+Senior Software Developer (Android & Cross-Platform)
+
+Coimbatore, India | +91 8015423896 | manojcse27@gmail.com
+
++1
+
+PROFESSIONAL SUMMARY
+Results-driven Senior Software Professional with over 8+ years of experience in the mobile ecosystem. Expert in architecting high-performance Android applications (Kotlin/Java) and proficient in Cross-Platform development (Flutter/React Native). Proven track record of leading development lifecycles, optimizing app performance, and mentoring junior developers within Agile environments.
++4
+
+TECHNICAL SKILLS
+
+
+Languages: Kotlin, Java, Dart, JavaScript, C++.
+
+
+Native Android: Android SDK, Android Studio, Jetpack Compose.
+
+
+Cross-Platform: Flutter (Dio, Bloc), React Native.
++1
+
+
+Architecture: MVVM, MVP, MVC, Clean Architecture.
++1
+
+
+Libraries/DI: Dagger, Hilt, Retrofit, Room, SQLite.
+
+
+Tools & DevOps: Git, Firebase, Google Cloud, Jenkins, Fastlane, XCode.
++1
+
+PROFESSIONAL EXPERIENCE
+
+Billion Careers Pvt Ltd | Senior Software Developer | Sep 2023 – Present
+
+
+Spearhead the architecture and development of high-performance Android applications using Kotlin and Java.
+
+Implemented complex features including real-time data synchronization, push notifications, and secure in-app purchases.
+
+Lead Agile development sprints, ensuring best practices in code quality and software design patterns.
+
+Heptagon Technologies Pvt Ltd | Software Developer | Apr 2017 – Aug 2023
+
+
+Designed and implemented scalable Android applications using MVVM and MVP patterns.
+
+Conducted deep performance profiling and optimization, significantly improving app responsiveness and reducing load times.
+
+Expanded technical reach by contributing to cross-platform initiatives using Flutter and React Native.
+
+Velan Info Services Ind Pvt Ltd | Junior Software Developer | May 2016 – Nov 2016
+
+
+Assisted in the design of user-friendly interfaces and seamless functionality for Android.
+
+Collaborated on the integration of RESTful APIs and third-party libraries.
+
+EDUCATION
+
+B.E. Computer Science and Engineering | Pollachi Institute of Engineering and Technology | CGPA: 6.75.
+
+HSC | Central Higher Secondary School | 75%.
+
+
+
+
+projects
+
+Project-1
+App - 1: CCMC Central
+
+➢ The CCMC Central app is an easy and user-friendly citizen centric service
+interface. This is a one stop App for users to seek redressal of their
+grievances.
+➢ This app allows users to select a grievance location via Google Maps, and
+upload the pictures.
+➢ After registering any grievances, users are able to track each status of
+work that is resolving grievances via Firebase cloud notifications.
+➢ APP Link : https://play.google.com/store/apps/details?id=com.ccmc.user
+
+App - 2: CCMC Officer
+
+➢ This app is designed to make the Field Officer's job more efficient.
+➢ The CCMC central app users registered grievances are received and that
+grievances are received through this application via push notifications.
+➢ Field officer will start an application to resolve any grievances that each
+status sends to a user.
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.ccmc.fieldofficer
+
+App - 3: CCMC kiosk
+
+➢ This CCMC Kiosk application is designed for Tablets. This application
+placed in public places, to publics, is to register a grievance.
+➢ This is supported by multiple languages.
+➢ Auto signed out feature is implemented in this app. So it will
+automatically sign out when Idle state.
+➢ APP Link : https://play.google.com/store/apps/details?id=com.ccmc.kiosk
+
+
+Project-2
+Name : Chef on wheels
+
+➢ This application is Developed for Point of sale (POS) services.
+➢ This is specially designed for Food organizations cashiers,cashiers will be
+able to select a food item and print a bill.
+➢ It will work on Both Online & Offline.
+➢ If the networks are unavailable applications will work on the offline, and
+orders are stored in sqlite Database, when the network is connected, saved
+orders are sync in background call.
+➢ Cashier can select items and print a bill within the application.
+➢ Printer socket connections are internally connected and through Both USB
+& WIFI Printer.
+
+
+Project-3
+Name : MIS FBS
+
+➢ This application is majorly Developed for taking a users survey.
+
+➢ Applications are installed in Tablet devices and placed in public
+places,users are used to fill the surveys and feedback.
+➢ This application is supported for 5 languages.
+
+Project-4
+Name : Quess Events
+
+➢ One stop event management App for all Quess Events.
+➢ This application is developed within 3 weeks.
+➢ Third party chat is integrated into this application.
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.quesscorp.quessevents
+
+Project-5
+Name : ARA
+
+➢ Ara is a Digital receptionist to manage visitor logs.
+➢ This is support for both mobile and Tablets.
+➢ Customisable Check-in flow to capture details from your visitors
+➢ Instant alerts to hosts when visitors arrive (via sms and email)
+➢ Automatic face recognition for a seamless check-in experience
+➢ Integrated NDA and Signature capture for visitors
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.heptagon.ara
+
+Project-6
+Name : WorQ
+
+➢ WorQ is a mobile app offering a Unique HR Employee Self Service
+solution coupled with strong functional management to automate the
+business process.
+➢ This contains various features like geotag, check-in with geolocation,live
+location tracking, sales , dynamic forms, claims , payslip generation ,
+survey forms etc,
+➢ This project used MVC coding patterns.
+➢ This application working on both online & offline with some
+functionalities
+➢ APP Link : https://play.google.com/store/apps/details?id=com.inedgenxt
+
+Project-7
+Name : Monster
+
+➢ The Monster Job App makes it easy to Find Better jobs matching our
+profile
+➢ The world's best job seeker app monster is revamped with the latest design
+patterns.
+➢ This application is developed by the MVP Design pattern.
+➢ This project is developed within a crucial timeline.
+
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.monsterindia.seeker.vie
+ws
+
+Project-8
+Name : POP
+
+➢ The Paperless Onboarding Platform (POP) is a unique mobile based
+digital onboarding and document submission platform.
+➢ This POP application is mainly developed to decrease the paper work.
+➢ Users can fill in their details in the form that is provided by the backend
+side, and dynamic forms are filled and verified.
+➢ This is seamlessly linked with Aadhaar for instant verification.
+➢ Sqlite DB is used to store filled information.
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.harbour.onboarding
+
+Project-9
+Name : Check-in for WorQ
+
+➢ Check-in for WorQ is a contactless attendance marking system with facial
+recognition and geo-tagging.
+➢ It has a simple & intuitive interface for users to mark attendance and
+integrated with WorQ seamlessly.
+➢ The app ensures the right person is at the right location during the
+transaction.
+➢ We integrate the Google vision and Firebase ML kit for Facial
+Recognition.
+➢ This app was developed by using Kotlin language with MVVM pattern.
+➢ Using Live Data and Advanced concepts of Kotlin.
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.worq.checkin
+
+
+Project-10
+Name : seQure
+
+➢ The Sequre for Tablet offers a sleek first point of contact for office
+visitors.
+➢ Make guests feel welcome and put visitors directly in contact with the
+person they are there to see -- all while improving office security.
+➢ It Supports Multiple Devices and various screen sizes.
+➢ Integrated with the Bluetooth Printer for printing the Instant ID card for
+the visitors.
+➢ APP Link :
+https://play.google.com/store/apps/details?id=com.heptagon.sequre
+
+
+Project-11
+Name : Qjobs
+
+➢ Qjobs is a job finder and app users will search jobs that are posted by
+various employers.
+➢ This app made by an latest design patten like MVVM and various CI/CD
+tools
+➢ It Supports Multiple Devices and various screen sizes.
+➢ APP Link : https://play.google.com/store/apps/details?id=com.harbour.hire
+
+
+Project-12
+Name : Hamara Academy
+
+➢ Hamara Academy is a app for learning platform
+➢ made by using flutter platform. with getx and streaming apis
+➢ Self-paced learning, interactive video lectures, and the ability for organizations to host their own training materials.
+➢ APP Link : https://play.google.com/store/apps/details?id=com.hamara.academy
+
+Project-13
+Name : Hamara Benefits
+
+➢ Hamara Benefits is a app for employee benefits platform
+➢ made by using flutter platform with bloc state management, dio
+➢ payment api integration. 
+➢ APP Link : https://play.google.com/store/apps/details?id=com.hamara.benefits
