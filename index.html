@@ -666,32 +666,27 @@
             btnText.innerText = 'Sending...';
             submitBtn.disabled = true;
 
-            // Prepare template params matching variables in EmailJS Template
-            const templateParams = {
-                user_name: document.getElementById('user_name').value,
-                user_email: document.getElementById('user_email').value,
-                subject: document.getElementById('subject').value,
-                message: document.getElementById('message').value,
-                date_time: new Date().toLocaleString()
-            };
 
-            // EMAILJS API CONFIGURATION 
-            // IMPORTANT: Replace these dummy values with your actual EmailJS dashboard credentials
-            const SERVICE_ID = 'service_rss6lag';
-            const TEMPLATE_ID = 'template_0a6o2qp';
-            const USER_ID = 'yCk7hEPbnvF5731UP'; // user_id / public key
 
-            // Send request via EmailJS REST API
-            fetch('https://api.emailjs.com/api/v1.0/email/send', {
+            var user_name = document.getElementById('user_name').value;
+            var user_email = document.getElementById('user_email').value;
+            var subject = document.getElementById('subject').value;
+            var message = document.getElementById('message').value;
+            var date_time = new Date().toLocaleString();
+
+
+            fetch('https://api.web3forms.com/submit', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json'
                 },
                 body: JSON.stringify({
-                    service_id: SERVICE_ID,
-                    template_id: TEMPLATE_ID,
-                    user_id: USER_ID,
-                    template_params: templateParams
+                    "access_key": "d3ee0a9f-d73f-4ea8-8a8f-85ef77c8325b",
+                    "name": user_name,
+                    "email": user_email,
+                    "subject": subject,
+                    "message": message,
+                    "date_time": date_time
                 })
             })
                 .then(response => {
@@ -703,8 +698,8 @@
                     }
                 })
                 .catch(error => {
-                    console.error('EmailJS Error:', error);
-                    alert('Oops! Failed to send the message. Please ensure you entered valid EmailJS IDs.');
+                    console.error('web3forms Error:', error);
+                    alert('Oops! Failed to send the message.');
                 })
                 .finally(() => {
                     // Revert button state
