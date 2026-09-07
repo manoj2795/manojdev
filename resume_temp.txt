@@ -7,7 +7,7 @@ Coimbatore, India | +91 8015423896 | manojcse27@gmail.com
 +1
 
 PROFESSIONAL SUMMARY
-Results-driven Senior Software Professional with over 8+ years of experience in the mobile ecosystem. Expert in architecting high-performance Android applications (Kotlin/Java) and proficient in Cross-Platform development (Flutter/React Native). Proven track record of leading development lifecycles, optimizing app performance, and mentoring junior developers within Agile environments.
+Results-driven Senior Software Professional with over 9+ years of experience in the mobile ecosystem. Expert in architecting high-performance Android applications (Kotlin/Java) and proficient in Cross-Platform development (Flutter/React Native). Proven track record of leading development lifecycles, optimizing app performance, and mentoring junior developers within Agile environments.
 +4
 
 TECHNICAL SKILLS
@@ -70,6 +70,12 @@ HSC | Central Higher Secondary School | 75%.
 
 
 projects
+
+Project-0: Hamara ReQruit
+
+➢ Built a cross-platform Applicant Tracking System (ATS) using React Native.
+➢ Engineered to ensure native-like responsiveness and seamless performance on both Android and iOS.
+➢ APP Link : https://play.google.com/store/apps/details?id=com.hamara.reqruit
 
 Project-1
 App - 1: CCMC Central
